@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ecomerce/static/css/main.ac5adb21.chunk.css",
+    "main.js": "/Ecomerce/static/js/main.c3f805a2.chunk.js",
+    "main.js.map": "/Ecomerce/static/js/main.c3f805a2.chunk.js.map",
+    "runtime-main.js": "/Ecomerce/static/js/runtime-main.bc0aee20.js",
+    "runtime-main.js.map": "/Ecomerce/static/js/runtime-main.bc0aee20.js.map",
+    "static/css/2.ebd2896b.chunk.css": "/Ecomerce/static/css/2.ebd2896b.chunk.css",
+    "static/js/2.6b79b917.chunk.js": "/Ecomerce/static/js/2.6b79b917.chunk.js",
+    "static/js/2.6b79b917.chunk.js.map": "/Ecomerce/static/js/2.6b79b917.chunk.js.map",
+    "index.html": "/Ecomerce/index.html",
+    "static/css/2.ebd2896b.chunk.css.map": "/Ecomerce/static/css/2.ebd2896b.chunk.css.map",
+    "static/css/main.ac5adb21.chunk.css.map": "/Ecomerce/static/css/main.ac5adb21.chunk.css.map",
+    "static/js/2.6b79b917.chunk.js.LICENSE.txt": "/Ecomerce/static/js/2.6b79b917.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc0aee20.js",
+    "static/css/2.ebd2896b.chunk.css",
+    "static/js/2.6b79b917.chunk.js",
+    "static/css/main.ac5adb21.chunk.css",
+    "static/js/main.c3f805a2.chunk.js"
+  ]
+}
