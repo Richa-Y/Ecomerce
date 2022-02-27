@@ -1,0 +1,13 @@
+export const LOGIN_START = "LOGIN_START";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const SIGNUP_FAILED = "SIGNUP_FAILED";
+export const SIGNUP_SUCCESS = "SIGNUP_SUCCESS";
+export const UPDATE_POSTS = " UPDATE_POSTS";
+export const ADD_CART = "ADD_CART";
+export const INC_QTY = "INC_QTY";
+export const DEC_QTY = "DEC_QTY";
+export const REMOVE_PRODUCT = "REMOVE_PRODUCT";
+export const ADD_WISHLIST = "ADD_WISHLIST";
+export const REVIEW_PRODUCT = "REVIEW_PRODUCT";
+export const REMOVE_WISH = "REMOVE_WISH";
